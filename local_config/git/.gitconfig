@@ -1,0 +1,56 @@
+[user]
+    name = sethc23
+    email = sethc23@users.noreply.github.com
+
+[github]
+    user = sethc23
+    token = 690b878c22a8745cd2087a7304a8df51080dde10
+
+[credentials "https://github.com"]
+    username = sethc23
+    token = e27b3b9e1d3395124d1a7f5eb722d9e457ca983f
+
+[core]
+    autocrlf = input
+    repositoryformatversion = 0
+    filemode = true
+    bare = false
+    logallrefupdates = true
+
+[difftool]
+    prompt = false
+[difftool "bc3"]
+    trustExitCode = true
+    cmd = "/usr/local/bin/remote_bcomp" \"$LOCAL\" \"$REMOTE\"
+[difftool "cdiff"]
+    cmd="/opt/local/bin/colordiff \
+            --label \"FILE: $LOCAL\" \
+            --side-by-side \
+            --suppress-common-lines \
+            --ignore-all-space \
+            --minimal \
+            --suppress-blank-empty \
+            --width=$(tput cols) \
+            \"$LOCAL\" \"$REMOTE\" | less"
+
+[add]
+    ignore-errors = true
+[push]
+    default = upstream
+[color]
+    ui = auto
+[color "branch"]
+    current = yellow bold
+    local = green bold
+    remote = cyan bold
+[color "diff"]
+    meta = yellow bold
+    frag = magenta bold
+    old = red bold
+    new = green bold
+    whitespace = red reverse
+[color "status"]
+    added = green bold
+    changed = yellow bold
+    untracked = red bold
+

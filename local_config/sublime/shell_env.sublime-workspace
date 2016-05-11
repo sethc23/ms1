@@ -1,0 +1,198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Seth/.scripts/shell_env"
+	],
+	"file_history":
+	[
+		"/C/Users/Seth/add",
+		"/C/Users/Seth/Desktop/f_postgres.py",
+		"/C/Users/Seth/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Seth/Desktop/z_get_string_dist.py",
+		"/C/Users/Seth/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Seth/Documents/onenote_full_radial4.xml",
+		"/G/home/ub2/BD_Scripts/html/webpage_scrape.py",
+		"/G/home/ub2/BD_Scripts/html/preview_autopost.py",
+		"/G/home/ub2/.scripts/System_Control.py",
+		"/G/home/ub2/.scripts/system_argparse.py",
+		"/G/home/ub2/.scripts/.alias_shared",
+		"/J/home/ub4/SERVER6/nginx/setup/nginx/sites-available/run_file_encryption.conf",
+		"/J/home/ub4/SERVER6/encryption/encrypt.html",
+		"/J/home/ub4/SERVER6/encryption/run_encryption.py",
+		"/J/home/ub4/SERVER6/local_config/.alias_s2",
+		"/J/home/ub4/SERVER6/nginx/setup/nginx/sites-available/run_file_encryption_dev.conf",
+		"/J/home/ub4/SERVER6/nginx/setup/nginx/conf/nginx.conf",
+		"/J/home/ub4/SERVER6/nginx/setup/nginx/sites-available/lua_files/receive_encryption_upload.lua",
+		"/J/home/ub4/SERVER6/encryption/_encryption.py",
+		"/J/home/ub4/SERVER6/encryption/encryption.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"T.pro",
+			"get_proxies",
+			"orig_msg",
+			"base_path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Seth\\.scripts\\shell_env"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

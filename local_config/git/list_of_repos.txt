@@ -1,0 +1,2 @@
+/home/ub2/.scripts
+/home/ub2/SERVER2
